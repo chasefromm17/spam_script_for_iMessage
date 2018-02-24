@@ -1,6 +1,7 @@
 # spam_script_for_iMessage
 
-**REQUIRES IMESSAGE APP ON OS X AND REQUIRES APPLESCRIPT**
+**REQUIRES IMESSAGE APP ON OS X/MACOS SIERRA OR MACOS HIGH SIERRA**
+**REQUIRES APPLESCRIPT**
 
 || >>> Tested on macOS Sierra and macOS High Sierra, confirmed working **perfectly** on both software releases <<< ||
 
