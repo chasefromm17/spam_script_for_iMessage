@@ -1,4 +1,4 @@
-# spam_script_for_iMessage
+# Spam Script for iMessages
 
 **REQUIRES IMESSAGE APP ON OS X/MACOS SIERRA OR MACOS HIGH SIERRA**
 **REQUIRES APPLESCRIPT**
