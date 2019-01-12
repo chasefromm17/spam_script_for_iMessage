@@ -1,6 +1,8 @@
 # Spam Script for iMessage
 
 **REQUIRES IMESSAGE APP ON OS X/MACOS SIERRA/MACOS HIGH SIERRA... NOT 100% CONFIRMED TO WORK ON MACOS MOJAVE**
+
+________________________
 **REQUIRES APPLESCRIPT**
 
 Updated for enhanced improvements. Sorry for the wait.
