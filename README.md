@@ -5,6 +5,7 @@
 ________________________
 **REQUIRES APPLESCRIPT**
 
+________________________
 Updated for enhanced improvements. Sorry for the wait.
 
 **Tested on**: Tested on macOS Sierra and macOS High Sierra, confirmed working **perfectly** on both software releases.
